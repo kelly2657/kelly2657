@@ -1,14 +1,36 @@
-### Hi there 👋
+# 안녕하세요, 오혜민입니다! 👋
 
-**kelly2657/kelly2657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 학부에서 소프트웨어융합을 전공했습니다.
+- 💻 JavaScript, Java, React, HTML, CSS에 능숙합니다.
+- 💻 Python을 통한 알고리즘 작성에 능숙합니다.
+- 🌱 현재 프론트엔드 개발자로 성장하기 위해 노력 중입니다.
+- 👯 사용자 경험 향상과 효율적인 코드 작성에 관심이 많습니다.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+### FE
+- **HTML/CSS/JavaScript**: 반응형이고 동적인 사용자 인터페이스를 구축하는 데 능숙합니다.
+- **React**: React를 사용해 싱글 페이지 애플리케이션(SPA)을 개발하며, hooks와 context API로 상태 관리를 할 수 있습니다.
+- **AJAX**: 클라이언트와 서버 간 비동기 데이터 교환을 처리하는 데 능숙합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### BE(Entry-level)
+- **Sequelize**: Sequelize ORM을 사용해 모델을 생성하고 SQL 데이터베이스와 상호작용한 경험이 있습니다.
+- **MySQL**: 데이터베이스에서 데이터를 관리하고 조회하기 위해 직접 SQL 쿼리문을 작성한 경험이 있습니다.
+- **AJAX**: 프론트엔드와 백엔드 간의 데이터 교환을 AJAX 요청을 통해 구현한 경험이 있습니다.
+
+부족한 부분을 채워가며 성장하고 있습니다.
+
+## 🏆 Achievements
+- 대학 졸업 작품 입상
+- KDT 프로그램 완료
+
+## 🎯 Goals
+- 사용자와 동료 개발자 모두에게 긍정적인 영향을 주는 개발자가 되는 것
+- 지속적인 학습을 통한 기술 향상
+- 효율적인 코드 작성 능력 개발
+
+## 📫 How to reach me
+- Email: [orionrora@naver.com]
+---
+
+💡 "끈기 있는 성실함은 배신하지 않는다" - 이 모토를 바탕으로 꾸준히 성장하고 있습니다.
